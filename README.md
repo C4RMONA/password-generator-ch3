@@ -1,4 +1,4 @@
-# password-generator-ch3
+# password-generator
 ## deployed website: https://c4rmona.github.io/password-generator-ch3/
 This web application, when selected "Generate Password" will take the user through a series of window promps, so that the user may select their preferred criteria to generate a random password. At the end of the the promps, the password will be alerted through a window alert and also displayed in the the text box where the user first see "Your Secure Password" as a placeholder.
 ![Screenshot 2022-05-22 222952](https://user-images.githubusercontent.com/101689362/169738235-ede40c90-faa5-4ff0-a8ca-021722544ddb.jpg)
